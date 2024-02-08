@@ -1,24 +1,8 @@
 # README
+Exo 3 (jen ai chier)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bundle install comme d'hab
 
-Things you may want to cover:
+Mon Gossip s'appelle Gosip (la fatigue)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+je n'ai pas reussi a finaliser les tags et les Privates messages
